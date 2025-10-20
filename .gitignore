@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+.env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+
+# IDE configs
+.vscode/
+.idea/
+*.code-workspace
+
+# Pytest cache
+.pytest_cache/
+
+# Data files (optional, if you add experiments)
+data/
+*.csv
+*.npy
+*.pkl
+*.h5
