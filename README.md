@@ -15,7 +15,7 @@
   - `LayerNorm`, `Dropout`
 
 - **Notebooks**  
-  - **`pro.ipynb`**: Step-by-step construction of Micrograd Pro core, with explanations and references to research papers.
+  - **`pro.ipynb`**: Main content here, step-by-step construction of Micrograd Pro core, with explanations and references to research papers.
   - **`flow.ipynb`**: Visualizes gradient flow, computation graphs, loss surfaces, and includes a small Iris classification example.
 
 - **Mathematical Explanations**  
@@ -27,7 +27,10 @@
 
 ## Example Visualizations
 
-
+![Dropout Viz](https://raw.githubusercontent.com/0lekz/micrograd_pro/main/pics/flow/output6.png)
+![GELU Example](https://raw.githubusercontent.com/0lekz/micrograd_pro/main/pics/flow/output11.png)
+![Comp Graph Example](https://raw.githubusercontent.com/0lekz/micrograd_pro/main/pics/flow/output1.png)
+ 
 ## Project Structure
 
 ```
@@ -60,7 +63,6 @@ micrograd_pro/
 └── ...
 ```
 
----
 
 ## Getting Started
 
